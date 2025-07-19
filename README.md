@@ -1,6 +1,6 @@
-# 🕹️ Animation Glitch Retro « De La Soul Song »
+# Animation Glitch Retro « De La Soul Song »
 
-## 🌟 Description  
+## Description  
 Projet réalisé en **CSS pur** vers 2020, inspiré par l’esthétique glitch/vintage.  
 Affiche une image floutée en fond avec un bouton central animé donnant une ambiance rétro.  
 Initialement, le bouton contenait un lien vers une vidéo YouTube.  
@@ -13,7 +13,11 @@ Par la suite, un peu de **JavaScript** a été ajouté pour déclencher la lectu
 
 ![screenshot](screenshot.png)
 
-[Voir la démo sur GitHub Pages](https://rukendogan.github.io//)
+---
+
+## Démo
+
+[Voir la démo sur GitHub Pages](https://rukendogan.github.io/de-la-soul-player/)
 
 ---
 
