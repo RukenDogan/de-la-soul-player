@@ -1,4 +1,4 @@
-# Animation Glitch Retro « De La Soul Song »
+# Animation VHS Glitch Retro « De La Soul Song »
 
 ## Description  
 Projet réalisé en **CSS pur** vers 2020, inspiré par l’esthétique glitch/vintage.  
